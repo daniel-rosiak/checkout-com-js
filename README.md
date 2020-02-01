@@ -2,6 +2,9 @@
 
 Simple library with low level of abstraction
 
+It's an update of https://www.npmjs.com/package/checkout-js-library, because it is outdated.
+
+
 ### https://api-reference.checkout.com
 ### https://docs.checkout.com/docs
 
@@ -13,7 +16,6 @@ npm run test
 ```
 
 ## Usage
-[...]
 ```javascript
 import ApiClient from "checkout-com-js";
 
